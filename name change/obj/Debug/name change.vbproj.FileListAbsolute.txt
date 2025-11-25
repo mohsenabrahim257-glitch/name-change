@@ -1,0 +1,11 @@
+D:\users\pc\documents\visual studio 2015\Projects\name change\name change\bin\Debug\name change.exe.config
+D:\users\pc\documents\visual studio 2015\Projects\name change\name change\bin\Debug\name change.exe
+D:\users\pc\documents\visual studio 2015\Projects\name change\name change\bin\Debug\name change.pdb
+D:\users\pc\documents\visual studio 2015\Projects\name change\name change\bin\Debug\name change.xml
+D:\users\pc\documents\visual studio 2015\Projects\name change\name change\obj\Debug\name change.vbprojResolveAssemblyReference.cache
+D:\users\pc\documents\visual studio 2015\Projects\name change\name change\obj\Debug\name_change.Form1.resources
+D:\users\pc\documents\visual studio 2015\Projects\name change\name change\obj\Debug\name_change.Resources.resources
+D:\users\pc\documents\visual studio 2015\Projects\name change\name change\obj\Debug\name change.vbproj.GenerateResource.Cache
+D:\users\pc\documents\visual studio 2015\Projects\name change\name change\obj\Debug\name change.exe
+D:\users\pc\documents\visual studio 2015\Projects\name change\name change\obj\Debug\name change.xml
+D:\users\pc\documents\visual studio 2015\Projects\name change\name change\obj\Debug\name change.pdb
